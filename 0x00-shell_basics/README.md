@@ -1,1 +1,1 @@
-to Display the contents list of your current directory.
+to create a script that create multiples directories
