@@ -1,1 +1,1 @@
-this Create a script that switches the current user to the user betty
+to Create a script that creates a directory called my_dir with permissions 751 in the working directory
